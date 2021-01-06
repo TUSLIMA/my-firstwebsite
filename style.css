@@ -21,14 +21,14 @@ p{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .top-banner{
     background-image: ;
     background-repeat: no-repeat;
 }
 section{
-    height: 500px;
+    height: 700px;
     padding-bottom: 150 px;
 }
 .link-button{
@@ -49,6 +49,19 @@ section{
     border-radius: 5px;
     height: 80%;
 }
-.creative agency{ 
+.creative-area{ 
 box shadow: 10px 10px 40 px grey;
+}
+.creative-agency{ 
+    box shadow: 10px 10px 40 px grey;
+}
+ .rock-music{ 
+        box shadow: 10px 10px 40 px grey;
+ }
+
+footer p{
+    text-align: center;
+    image: center;
+    
+
 }
